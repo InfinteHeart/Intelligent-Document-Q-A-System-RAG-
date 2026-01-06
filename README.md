@@ -225,7 +225,7 @@ Intelligent-Document-Q&A-System/
 1. 报告问题 ：在GitHub Issues中提交详细的问题描述
 2. 贡献代码 ：Fork仓库，创建分支，提交Pull Request
 3. 改进建议 ：通过Issues或邮件提出您的建议
-## 📞 联系我们
+## 📞 联系我们 
 如有任何问题或合作意向，请通过以下方式联系：
 
 - 邮箱 ：[19861629721@163.com]
