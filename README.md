@@ -94,7 +94,7 @@ Streamlit UI ────>文档处理模块────向量存储与检索
 
 1. **克隆项目**
    ```bash
-   gh repo clone InfinteHeart/Intelligent-Document-Q-A-System-RAG-
+   git clone https://github.com/InfinteHeart/Intelligent-Document-Q-A-System-RAG-.git
    cd Intelligent-Document-Q-A-System-RAG-
 
 2. **安装依赖**
